@@ -1,0 +1,12 @@
+tmp/
+temp/
+
+.terraform/
+.terragrunt-cache/
+
+.terraform*
+
+file/
+logs/
+
+*.log
